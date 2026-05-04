@@ -96,3 +96,7 @@ If you use this framework in your research, please cite our paper:
   url={https://ieeexplore.ieee.org/document/11318798}
 }
 ```
+
+## License
+This project is licensed under the **Academic and Non-Commercial Use License**. 
+It is free to use, modify, and distribute for academic, educational, and non-commercial research purposes. Any commercial use, including integration into proprietary software or use by a commercial entity, is strictly prohibited without prior written permission from the author. See the [LICENSE](LICENSE) file for more details.
